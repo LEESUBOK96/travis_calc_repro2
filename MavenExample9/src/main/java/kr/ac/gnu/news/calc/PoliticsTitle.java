@@ -66,7 +66,7 @@ public class PoliticsTitle
 	      }
 	      catch(IOException e)
 	      {
-	         e.printStackTrace();
+	         e.printStackTrace();//travis ci
 	      }
     }
 }
